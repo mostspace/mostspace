@@ -22,7 +22,6 @@ Software design and development have always been my biggest passion, because of 
 
 <p align="left">
   <a href = "mailto:danielpitt1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
-  <a href = "tel:16015228645"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=red" target="_blank"/></a>
   <a href = "https://join.skype.com/invite/FTt0mmHoS1V2"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" target="_blank"/></a>
   <a href = "https://join.slack.com/t/danielsworksp-rhq1949/shared_invite/zt-25ythaztd-qka1KoDvdxBwhPJAOhxrHQ"><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/></a>
   <a href = "https://www.linkedin.com/in/daniel-pitt-6444442b3/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"/></a>
