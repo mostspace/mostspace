@@ -59,5 +59,9 @@ Software design and development have always been my biggest passion, because of 
   </a>
 </p>
 
-// T1-ERC20: 0xe65b8734504a94659cd0511336d57191c18ca431
-// T2-ERC20: 0x63B739A19cb641003A29dDb6Fc818F67B1fbEcbE
+<!-- 
+
+T1-ERC20: 0xe65b8734504a94659cd0511336d57191c18ca431
+T2-ERC20: 0x63B739A19cb641003A29dDb6Fc818F67B1fbEcbE 
+
+-->
