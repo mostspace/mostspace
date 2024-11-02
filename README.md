@@ -22,6 +22,7 @@ Software design and development have always been my biggest passion, because of 
 
 <p align="left">
   <a href = "mailto:danielpitt1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
+  <a href = "https://t.me/dpitt1027"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"/></a>
 </p>
 
 <!-- 
