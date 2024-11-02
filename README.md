@@ -24,42 +24,7 @@ Software design and development have always been my biggest passion, because of 
   <a href = "mailto:danielpitt1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
 </p>
 
-## Languages & Tools
-
-<h3 align="left">Front-end</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
-  </a>
-</p>
-<h3 align="left">Backend</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
-  </a>
-</p>
-<h3 align="left">Mobile</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift,kotlin,java" />
-  </a>
-</p>
-<h3 align="left">DataBase</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql,postgres,sqlite" />
-  </a>
-</p>
-<h3 align="left">Tools</h3>
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
-  </a>
-</p>
-
 <!-- 
-
 T1-ERC20: 0xe65b8734504a94659cd0511336d57191c18ca431
 T2-ERC20: 0x63B739A19cb641003A29dDb6Fc818F67B1fbEcbE 
-
 -->
