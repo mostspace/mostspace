@@ -21,6 +21,7 @@ Software design and development have always been my biggest passion, because of 
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
 ## Get in touch
+<p>I am always open to exciting new opportunities and collaborations, so please don't hesitate to get in touch! I look forward to connecting with you.</p>
 
 <p align="left">
   <a href = "mailto:danielpitt1027@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
