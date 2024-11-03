@@ -27,8 +27,3 @@ Software design and development have always been my biggest passion, because of 
   <a href = "https://t.me/dpitt1027" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue" /></a>
   <a href = "https://join.skype.com/invite/FTt0mmHoS1V2" target="_blank"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>
 </p>
-
-<!-- 
-T1-ERC20: 0xe65b8734504a94659cd0511336d57191c18ca431
-T2-ERC20: 0x63B739A19cb641003A29dDb6Fc818F67B1fbEcbE 
--->
