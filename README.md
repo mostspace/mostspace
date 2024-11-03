@@ -18,7 +18,7 @@ Software design and development have always been my biggest passion, because of 
 - <b>Tools</b> : Git, Webpack, Atom, Geany, Sentry
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
-## Connect with me
+## Get in touch
 
 <p align="left">
   <a href = "mailto:danielpitt1027@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
