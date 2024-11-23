@@ -15,7 +15,7 @@ Software design and development have always been my biggest passion, because of 
 - <b>Mobile App Native</b> : Android:Java, Kotlin, Swift
 - <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- <b>Libraries</b> : RefluxJS, React Redux, Vue, jQuery UI, Facebook API, Bootstrap, jQuery, TailwindCSS, Material UI, AntD, Backbone.js, Vuex, HTML5 Canvas
+- <b>Libraries</b> : RefluxJS, React Redux, Vue, jQuery UI, Bootstrap, jQuery, TailwindCSS, Material UI, AntD, Backbone.js, Vuex
 - <b>BlockChain</b> : Web3.js, Ether.js, Truffle, Ethereum, Solana, DeFi, Dex, NFT
 - <b>Tools</b> : Git, Webpack, Atom, Geany, Sentry
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
