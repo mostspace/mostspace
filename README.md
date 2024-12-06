@@ -18,11 +18,12 @@ Software design and development have always been my biggest passion, because of 
 - <b>Libraries</b> : RefluxJS, React Redux, Vue, jQuery UI, Bootstrap, jQuery, TailwindCSS, Material UI, AntD, Backbone.js, Vuex
 - <b>BlockChain</b> : Web3.js, Ether.js, Truffle, Ethereum, Solana, DeFi, Dex, NFT
 - <b>Tools</b> : Git, Webpack, Atom, Geany, Sentry
-
-{* ## Get in touch
+<!--
+## Get in touch
 
 <p align="left">
  <a href = "mailto:danielpitt1027@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href = "https://t.me/dpitt1027" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue" /></a>
   <a href = "https://join.skype.com/invite/FTt0mmHoS1V2" target="_blank"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>#
-</p> *}
+</p>
+-->
