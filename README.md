@@ -9,8 +9,8 @@ Software design and development have always been my biggest passion, because of 
 <p>Over the years, I have honed my skills across a wide range of technologies, which include:</p>
 
 - <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, C#, Java, Dart, GraphQL, Solidity
-- <b>Web Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Svelte
-- <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django
+- <b>Web Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Svelte, Astro.js
+- <b>Backend</b> : Node.js/Express, PHP/Laravel, Python/Django
 - <b>Mobile App Native</b> : Android:Java, Kotlin, Swift
 - <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
