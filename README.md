@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome to my Github!
 
-<!--
-**mostspace/mostspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Software design and development have always been my biggest passion, because of its ability to transform idea into reality with the essence of efficiency! I particularly find it purposeful therefore enjoyable when learning and building with different brains as a team towards a shared vision. I am eager to use my technological skills and creativity to provide service/product to fill in the gaps in this society and make this world a better place.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+<p>Over the years, I have honed my skills across a wide range of technologies, which include:</p>
+
+- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, C#, Java, Dart, GraphQL, Solidity
+- <b>Web Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Svelte, Astro.js
+- <b>Backend</b> : Node.js/Express, PHP/Laravel, Python/Django
+- <b>Mobile App Native</b> : Android:Java, Kotlin, Swift
+- <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
+- <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
+- <b>Libraries</b> : RefluxJS, React Redux, Vue, jQuery UI, Bootstrap, jQuery, TailwindCSS, Material UI, AntD, Backbone.js, Vuex
+- <b>BlockChain</b> : Web3.js, Ether.js, Truffle, Ethereum, Solana, DeFi, Dex, NFT
+- <b>Tools</b> : Git, Webpack, Atom, Geany, Sentry
